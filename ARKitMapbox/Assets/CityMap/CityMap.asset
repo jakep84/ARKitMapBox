@@ -11,5 +11,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 526c8a90df31d41fe8057a6f85c7a3e4, type: 3}
   m_Name: CityMap
   m_EditorClassIdentifier: 
-  Factories: []
+  Factories:
+  - {fileID: 11400000, guid: a11b1e788819d4981b908990f0f8459d, type: 2}
+  - {fileID: 11400000, guid: 513b5c28c74a74f6693f0de11f1e8bab, type: 2}
   _loadingTexture: {fileID: 0}
